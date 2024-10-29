@@ -1,8 +1,7 @@
 ---
 layout: post
 title:  "Debounce"
-date:   2024-10-29 14:54:52 +0800
-categories: How to write a 
+date:   2024-10-28 14:54:52
 ---
 
 ### What is debouncing? <br>
